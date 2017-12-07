@@ -1,0 +1,21 @@
+{
+  "name": "quickapp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mark Chapman <mark.chapman@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.7",
+    "forms-angular": "0.9.0"
+  }
+}
